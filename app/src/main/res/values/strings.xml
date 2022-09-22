@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppRevisao</string>
+    <string name="txtNome">Nome:</string>
+    <string name="txtEndereco">Endereço</string>
+    <string name="txtCEP">CEP</string>
+    <string name="txtBairro">Bairro</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="telaResp">Tela de Respostas!</string>
+    <string name="confirmar">Confirmar</string>
+</resources>
